@@ -1,5 +1,7 @@
-[README.md](https://github.com/user-attachments/files/33299698/README.md)
 # Local Garmin Bridge
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20the%20project-FF813F?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/fraberrojoh)
+
 
 Local Garmin Bridge is a Home Assistant add-on that provides a local HTTP interface to Garmin Connect through the external [`garmin_mcp`](https://github.com/Taxuspt/garmin_mcp) project.
 
@@ -58,3 +60,12 @@ The MIT license in this repository applies to the files authored for Local Garmi
 ## Contributions
 
 Issues and pull requests are welcome. Please do not include passwords, Garmin authentication tokens, personal data, or unredacted logs in reports.
+## Support the project
+
+If Local Garmin Bridge is useful to you, you can help support its maintenance and development.
+
+[**Buy me a coffee**](https://buymeacoffee.com/fraberrojoh)
+
+Scan the QR code to visit the support page:
+
+![Buy Me a Coffee QR code](buymeacoffee-qr.png)
