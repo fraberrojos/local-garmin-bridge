@@ -1,0 +1,21 @@
+name: "Garmin Bridge"
+version: "0.2.1"
+slug: "garmin_bridge"
+description: "Puente entre Home Assistant y Garmin Connect para entrenamientos Coach AI."
+startup: services
+boot: manual
+init: false
+
+arch:
+  - aarch64
+map:
+  - type: share
+    read_only: false
+
+options:
+  garmin_username: ""
+  garmin_password: ""
+
+schema:
+  garmin_username: str
+  garmin_password: password

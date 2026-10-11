@@ -1,0 +1,23 @@
+# Secrets and credentials
+options.json
+.env
+.env.*
+*.pem
+*.key
+
+# Garmin authentication and tokens
+.garminconnect/
+garmin_tokens.json
+garmin_tokens/
+*token*
+
+# Python and temporary files
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+
+# Backups
+*.bak
+*.backup
+*.old
