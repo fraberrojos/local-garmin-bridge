@@ -1,7 +1,25 @@
-# Local Garmin Bridge
+# Garmin Bridge
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20the%20project-FF813F?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/fraberrojoh)
+<p align="center">
+  <img src="banner.png" alt="Coach AI — Entrena, analiza, progresa" width="100%">
+</p>
 
+<p align="center">
+  <img src="garmin-bridge-logo.png" alt="Garmin Bridge logo" width="220">
+</p>
+
+<p align="center">
+  <strong>Connect Garmin Connect with Coach AI.</strong><br>
+  A local Home Assistant add-on for Garmin Connect integration.
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/fraberrojoh">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20the%20project-FF813F?logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee">
+  </a>
+</p>
+
+---
 
 Local Garmin Bridge is a Home Assistant add-on that provides a local HTTP interface to Garmin Connect through the external [`garmin_mcp`](https://github.com/Taxuspt/garmin_mcp) project.
 
@@ -60,12 +78,15 @@ The MIT license in this repository applies to the files authored for Local Garmi
 ## Contributions
 
 Issues and pull requests are welcome. Please do not include passwords, Garmin authentication tokens, personal data, or unredacted logs in reports.
+
 ## Support the project
 
 If Local Garmin Bridge is useful to you, you can help support its maintenance and development.
 
-[**Buy me a coffee**](https://buymeacoffee.com/fraberrojoh)
+<p align="center">
+  <a href="https://buymeacoffee.com/fraberrojoh"><strong>☕ Buy me a coffee</strong></a>
+</p>
 
-Scan the QR code to visit the support page:
-
-![Buy Me a Coffee QR code](buymeacoffee-qr.png)
+<p align="center">
+  <img src="buymeacoffee-qr.png" alt="Buy Me a Coffee QR code" width="200">
+</p>
